@@ -1,5 +1,6 @@
 # MusicGenerator
-* 
+* Do you want to enchance your music playlists or find new artists based on your current favorites?
+* If so, this program generates a list of artists using an API 
 
 ## What I Learned: 
 *
