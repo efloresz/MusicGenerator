@@ -21,3 +21,8 @@ Do you want to enchance your music playlists or find new artists based on your c
 * How to handle API request failures and display appropriate error messages.
 ## Sample Output: 
 ![Screen Shot 2023-05-19 at 5 15 03 PM](https://github.com/efloresz/MusicGenerator/assets/110843762/e4f0c4c1-11d7-4fbc-801c-80f91b771fae)
+
+```
+~* Analysis *~
+Created: 05/19/23
+Status: Active (intened on expanding program and formatting output to be more organized.)
